@@ -10,3 +10,4 @@
 - [木兰](https://gitee.com/MulanRevive/mulan-rework) - 中国科学院研发的基于Python的编程语言
 - [易语言](http://www.dywt.com.cn/) - 一门以中文作为程序代码编程语言
 - [仓颉](https://baike.baidu.com/item/%E4%BB%93%E9%A2%89/58954708) - 华为将发布为HarmonyOS全新研发的编程语言，为鸿蒙生态基础设施建设补上最后一环。
+- [气(Qi)语](https://github.com/AnonymousAAArdvark/qi/blob/master/README.zh.md) - 气是独立开发者Andrew Yang设计的一门中文编程语言。
