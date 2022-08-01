@@ -8,7 +8,7 @@
 | [仓颉](https://baike.baidu.com/item/%E4%BB%93%E9%A2%89/58954708) | ?/未发布 | 华为公司 | 面向HarmonyOS的编程语言，为鸿蒙生态基础设施建设补上最后一环。
 | [CovScript](https://unicov.cn/covscript/) | ? | 李登淳 | 脚本编程语言 |
 | [Go+](https://github.com/goplus/gop) | 开源 | [许式伟](https://github.com/xushiwei) | 基于 Go 语言扩展的语言，Go 语言实现 |
-| [HVML(呼噜猫)](https://hvml.fmsoft.cn/) | ? | 魏永明 | 应用编程语言
+| [HVML(呼噜猫)](https://hvml.fmsoft.cn/) | 开源 | [魏永明](https://github.com/VincentWei) | 应用编程语言
 | [KCL](https://github.com/KusionStack/KCLVM) | 开源 | 蚂蚁集团| [KusionStack](https://github.com/KusionStack/kusion) 云原生配置技术栈项目提供的配置策略语言，Rust 语言实现 |
 | [木兰](https://gitee.com/MulanRevive/mulan-rework) | ? | 中科院/吴烜 | 基于Python的编程语言
 | [OpenBlock](https://gitee.com/openblock/openblock) | 开源 | 杜天微 | 简单易学的、面向业务的图形化脚本语言，开放原子开源基金会孵化项目 |
