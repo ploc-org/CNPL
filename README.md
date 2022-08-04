@@ -18,7 +18,7 @@
 | [气(Qi)语](https://github.com/AnonymousAAArdvark/qi/blob/master/README.zh.md) | 开源 | ? | 中文编程语言 |
 | [ReScript](https://rescript-lang.org) | 开源 | 张宏波 | 目前第一个 [国际化运作成功](https://forum.rescript-lang.org/) 的国产编程语言，OCaml 语言实现 |
 | [文言](https://wy-lang.org/) | 开源 | 黄令东 | 以文言文书写的编程语言 |
-| [易语言](http://www.dywt.com.cn/) | 闭源 | 吴涛等 | 一门以中文作为程序代码编程语言
+| [易语言](http://www.dywt.com.cn/) | 闭源 | ? | 一门以中文作为程序代码编程语言
 
 *注: 使用英文名字的语言后面不再加语言后缀, 比如 Go+*
 
