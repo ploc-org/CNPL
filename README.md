@@ -22,6 +22,11 @@
 
 *注: 使用英文名字的语言后面不再加语言后缀, 比如 Go+*
 
+----
+
+## 其他类似列表
+
+- 开源中国: https://www.oschina.net/project/awesome?columnId=20
 
 ----
 
