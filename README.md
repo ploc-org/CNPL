@@ -13,7 +13,8 @@
 | [Go+](https://github.com/goplus/gop) | 开源 | [许式伟](https://github.com/xushiwei) | 基于 Go 语言扩展的语言，Go 语言实现 |
 | [HVML(呼噜猫)](https://hvml.fmsoft.cn/) | 开源 | [魏永明](https://github.com/VincentWei) | 应用编程语言
 | [KCL](https://github.com/KusionStack/KCLVM) | 开源 | 蚂蚁集团| [KusionStack](https://github.com/KusionStack/kusion) 云原生配置技术栈项目提供的配置策略语言，Rust 语言实现 |
-| [木兰](https://gitee.com/MulanRevive/mulan-rework) | ? | 中科院/吴烜 | 基于Python的编程语言
+| [木兰](https://gitee.com/MulanRevive/mulan-rework) | ? | 中科院/吴烜 | 基于Python的编程语言 |
+| [洛书](https://gitee.com/chen-chaochen/lpk) | 开源 | 陈朝臣 | 基于专用虚拟指令集、面向多种运用场景的中文编程语言。 |
 | [OpenBlock](https://gitee.com/openblock/openblock) | 开源 | 杜天微 | 简单易学的、面向业务的图形化脚本语言，开放原子开源基金会孵化项目 |
 | [气(Qi)语](https://github.com/AnonymousAAArdvark/qi/blob/master/README.zh.md) | 开源 | ? | 中文编程语言 |
 | [ReScript](https://rescript-lang.org) | 开源 | 张宏波 | 目前第一个 [国际化运作成功](https://forum.rescript-lang.org/) 的国产编程语言，OCaml 语言实现 |
