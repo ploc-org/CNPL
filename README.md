@@ -19,6 +19,7 @@
 | [ReScript](https://rescript-lang.org) | 开源 | 张宏波 | 目前第一个 [国际化运作成功](https://forum.rescript-lang.org/) 的国产编程语言，OCaml 语言实现 |
 | [文言](https://wy-lang.org/) | 开源 | 黄令东 | 以文言文书写的编程语言 |
 | [易语言](http://www.dywt.com.cn/) | 闭源 | 吴涛等 | 一门以中文作为程序代码编程语言
+| [草蟒](https://gitee.com/laowu2019_admin/cpython) | 开源 | 吴胜金 | Python 中文版，支持全中文编程，完全兼容 python 生态
 
 *注: 使用英文名字的语言后面不再加语言后缀, 比如 Go+*
 
