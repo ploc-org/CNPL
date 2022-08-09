@@ -10,7 +10,7 @@
 | [草蟒](https://gitee.com/laowu2019_admin/cpython) | 开源 | 吴胜金 | Python 中文版，支持全中文编程，完全兼容 python 生态
 | [Calcit](https://calcit-lang.org/) | 开源 | [题叶](https://github.com/tiye) | 缩进语法的 Clojure 方言，基于 Rust 解释执行，支持编译为 `*.mjs` 使用。 |
 | [Cicada(蝉语)](https://github.com/cicada-lang/cicada) | 开源 | [谢宇恒](https://github.com/xieyuheng) | 一门依赖类型编程语言，一个交互式定理证明器。 |
-| [CovScript](https://unicov.cn/covscript/) | ? | 李登淳 | 脚本编程语言 |
+| [CovScript(智锐编程语言)](https://github.com/covscript) | 开源 | [李登淳](https://github.com/mikecovlee) | 一门跨平台的动态类型应用层通用编程语言，在四川大学有较为活跃的学生社区 |
 | [Go+](https://github.com/goplus/gop) | 开源 | [许式伟](https://github.com/xushiwei) | 基于 Go 语言扩展的语言，Go 语言实现 |
 | [HVML(呼噜猫)](https://hvml.fmsoft.cn/) | 开源 | [魏永明](https://github.com/VincentWei) | 应用编程语言
 | [KCL](https://github.com/KusionStack/KCLVM) | 开源 | 蚂蚁集团| [KusionStack](https://github.com/KusionStack/kusion) 云原生配置技术栈项目提供的配置策略语言，Rust 语言实现 |
