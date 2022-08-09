@@ -5,7 +5,7 @@
 | 语言名称 | 是否开源 | 作者 | 简介 |
 |---|---|---|---|
 | [凹语言™](https://wa-lang.org) | 开源 | [柴树杉](https://github.com/chai2010)/[丁尔男](https://github.com/3dgen)/[史斌](https://github.com/benshi001) | 披着 Go 和 Rust 语法外衣的 C++ 语言 |
-| [Aya](https://github.com/aya-prover/aya-dev/) | 开源 | [千里冰封](https://github.com/ice1000)等 | 一种编程语言和证明助手，专为形式化数学和类型导向编程而设计。 |
+| [Aya Prover](https://github.com/aya-prover/aya-dev/) | 开源 | [千里冰封](https://github.com/ice1000)等 | 一种编程语言和证明助手，专为形式化数学和类型导向编程而设计，支持同伦类型论。 |
 | [仓颉](https://baike.baidu.com/item/%E4%BB%93%E9%A2%89/58954708) | ?/未发布 | 华为公司 | 面向HarmonyOS的编程语言，为鸿蒙生态基础设施建设补上最后一环。
 | [草蟒](https://gitee.com/laowu2019_admin/cpython) | 开源 | 吴胜金 | Python 中文版，支持全中文编程，完全兼容 python 生态
 | [Calcit](https://calcit-lang.org/) | 开源 | [题叶](https://github.com/tiye) | 缩进语法的 Clojure 方言，基于 Rust 解释执行，支持编译为 `*.mjs` 使用。 |
