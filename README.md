@@ -23,6 +23,7 @@
 | [Cantonese(粤语编程语言)](https://github.com/StepfenShawn/Cantonese) | 开源 | [萧伟俊](https://github.com/StepfenShawn) | 以粤语书写的编程语言 |
 | [易语言](http://www.dywt.com.cn/) | 闭源 | 吴涛等 | 一门以中文作为程序代码编程语言  |
 | [Fanx](http://fanx.dev/) | 开源 | chunquedong | 面向对象的静态类型的全栈编程语言，可以编译为C语言、Java字节码、javascript，并提供跨平台开发框架  |
+| [入墨答(Rumbda Calculus)](https://github.com/ProjectDimlight/RuCalculus) | 开源 | [SOL](https://github.com/ProjectDimlight) | 简单通顺的中文入（λ）演算，可与haskell混编，正在兼容F# |
 
 *注: 使用英文名字的语言后面不再加语言后缀, 比如 Go+*
 
