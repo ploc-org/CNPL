@@ -24,6 +24,7 @@
 | [易语言](http://www.dywt.com.cn/) | 闭源 | 吴涛等 | 一门以中文作为程序代码编程语言  |
 | [粤语](https://github.com/StepfenShawn/Cantonese) | 开源 | [萧伟俊](https://github.com/StepfenShawn) | 以粤语书写的编程语言 |
 | [智锐](https://github.com/covscript) | 开源 | [李登淳](https://github.com/mikecovlee) | 一门跨平台的动态类型应用层通用编程语言，在四川大学有较为活跃的学生社区 |
+| [HVML](https://github.com/HVML) | 开源 | [Vincent Wei](https://github.com/VincentWei) | 尚未完善，感觉和 HTML 没啥差别
 
 *注: 使用英文名字的语言后面不再加语言后缀, 比如 Go+*
 
