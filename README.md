@@ -12,7 +12,7 @@
 | [蝉语](https://github.com/cicada-lang/cicada) | 开源 | [谢宇恒](https://github.com/xieyuheng) | 一门依赖类型编程语言，一个交互式定理证明器。 |
 | [Fanx](http://fanx.dev/) | 开源 | chunquedong | 面向对象的静态类型的全栈编程语言，可以编译为C语言、Java字节码、javascript，并提供跨平台开发框架  |
 | [Go+](https://github.com/goplus/gop) | 开源 | [许式伟](https://github.com/xushiwei) | 基于 Go 语言扩展的语言，Go 语言实现 |
-| [HVML](https://hvml.fmsoft.cn/) | 开源 | [魏永明](https://github.com/VincentWei) | [一种具有新结构、新原理和新设计模式的可编程标记语言](https://hvml.fmsoft.cn/blog/30-hvml)
+| [HVML](https://hvml.fmsoft.cn/) | 开源 | [魏永明](https://github.com/VincentWei) | 一种具有新结构、新原理和新设计模式的可编程标记语言 |
 | [KCL](https://github.com/KusionStack/KCLVM) | 开源 | 蚂蚁集团| [KusionStack](https://github.com/KusionStack/kusion) 云原生配置技术栈项目提供的配置策略语言，Rust 语言实现 |
 | [洛书](https://gitee.com/chen-chaochen/lpk) | 开源 | 陈朝臣 | 基于专用虚拟指令集、面向多种运用场景的中文编程语言。 |
 | [木兰](https://gitee.com/MulanRevive/mulan-rework) | 开源重现 | 原创：[刘雷等](https://news.sciencenet.cn/htmlnews/2020/1/434911.shtm)；重现：[吴烜等](https://gitee.com/MulanRevive/mulan-rework/contributors) | 基于 Python 的编程语言，语法设计包括 [用大括号取代强制缩进](https://zhuanlan.zhihu.com/p/103893370) 等等。
