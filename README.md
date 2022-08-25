@@ -24,6 +24,7 @@
 | [易语言](http://www.dywt.com.cn/) | 闭源 | 吴涛等 | 一门以中文作为程序代码编程语言  |
 | [粤语](https://github.com/StepfenShawn/Cantonese) | 开源 | [萧伟俊](https://github.com/StepfenShawn) | 以粤语书写的编程语言 |
 | [智锐](https://github.com/covscript) | 开源 | [李登淳](https://github.com/mikecovlee) | 一门跨平台的动态类型应用层通用编程语言，在四川大学有较为活跃的学生社区 |
+| [ZLOGO](https://github.com/TKT2016/ZLOGO) | 开源 | [TKT2016](https://github.com/TKT2016) | 功能与 LOGO 类似的中文编程语言，后有 [在线版本](https://github.com/program-in-chinese/quan3) |
 
 *注: 使用英文名字的语言后面不再加语言后缀, 比如 Go+*
 
