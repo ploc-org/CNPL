@@ -14,7 +14,7 @@
 | [Fanx](https://github.com/fanx-dev/fanx) | C | chunquedong | 面向对象的静态类型的全栈编程语言，可以编译为C语言、Java字节码、javascript，并提供跨平台开发框架  |
 | [Go+](https://github.com/goplus/gop) | Go | [许式伟](https://github.com/xushiwei) | 基于 Go 语言扩展的语言 |
 | [HVML](https://hvml.fmsoft.cn/) | C | [魏永明](https://github.com/VincentWei) | 一种具有新结构、新原理和新设计模式的可编程标记语言 |
-| [Jedi][(https:///](https://github.com/baixing/jedi)) | JavaScript, OMeta, PHP | [贺师俊](https://github.com/hax) | 类似于 Pug 的模板语言，解析器基于 OMetaJS，编译为 PHP，曾在百姓网内部大规模使用，2018年后停止维护 |
+| [Jedi](https://github.com/baixing/jedi) | JavaScript, OMeta, PHP | [贺师俊](https://github.com/hax) | 类似于 Pug 的模板语言，解析器基于 OMetaJS，编译为 PHP，曾在百姓网内部大规模使用，2018年后停止维护 |
 | [KCL](https://github.com/KusionStack/KCLVM) | Rust | 蚂蚁集团| 基于约束的记录及函数语言，目前已经用于规模化云原生运维等领域 |
 | [洛书](https://gitee.com/chen-chaochen/lpk) | C++ | 陈朝臣 | 基于专用虚拟指令集、面向多种运用场景的中文编程语言 |
 | [木兰](https://gitee.com/MulanRevive/mulan-rework) | Python | 原创：[刘雷等](https://news.sciencenet.cn/htmlnews/2020/1/434911.shtm)；重现：[吴烜等](https://gitee.com/MulanRevive/mulan-rework/contributors) | 基于 Python 的编程语言，语法设计包括 [用大括号取代强制缩进](https://zhuanlan.zhihu.com/p/103893370) 等等
