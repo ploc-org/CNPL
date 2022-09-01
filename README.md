@@ -8,9 +8,9 @@
 |---|---|---|---|
 | [凹语言™](https://wa-lang.org) | Go | [柴树杉](https://github.com/chai2010)/[丁尔男](https://github.com/3dgen)/[史斌](https://github.com/benshi001) | 专注于 [WASM](https://webassembly.org) 平台的通用语言 |
 | [Aya Prover](https://github.com/aya-prover/aya-dev/) | Java | [千里冰封](https://github.com/ice1000)等 | 一种编程语言和证明助手，专为形式化数学和类型导向编程而设计，支持同伦类型论 |
-| [草蟒](https://gitee.com/laowu2019_admin/cpython) | Python | 吴胜金 | Python 中文版，支持全中文编程，完全兼容 python 生态
 | [Calcit](https://calcit-lang.org/) | Rust | [题叶](https://github.com/tiye) | 缩进语法的 Clojure 方言，基于 Rust 解释执行，支持编译为 `*.mjs` 使用 |
 | [蝉语](https://github.com/cicada-lang/cicada) | TypeScript | [谢宇恒](https://github.com/xieyuheng) | 一门依赖类型编程语言，一个交互式定理证明器 |
+| [草蟒](https://gitee.com/laowu2019_admin/cpython) | Python | 吴胜金 | Python 中文版，支持全中文编程，完全兼容 python 生态
 | [Fanx](https://github.com/fanx-dev/fanx) | C | chunquedong | 面向对象的静态类型的全栈编程语言，可以编译为C语言、Java字节码、javascript，并提供跨平台开发框架  |
 | [Go+](https://github.com/goplus/gop) | Go | [许式伟](https://github.com/xushiwei) | 基于 Go 语言扩展的语言 |
 | [HVML](https://hvml.fmsoft.cn/) | C | [魏永明](https://github.com/VincentWei) | 一种具有新结构、新原理和新设计模式的可编程标记语言 |
