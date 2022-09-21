@@ -22,6 +22,7 @@
 | [气语](https://github.com/AnonymousAAArdvark/qi/blob/master/README.zh.md) | C | ? | ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/AnonymousAAArdvark/qi/master) | 中文编程语言 |
 | [ReScript](https://rescript-lang.org) | OCaml | 张宏波 | ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/rescript-lang/rescript-compiler/master) | 目前第一个 [国际化运作成功](https://forum.rescript-lang.org/) 的国产编程语言 |
 | [入墨答](https://github.com/ProjectDimlight/RuCalculus) | Haskell | [SOL](https://github.com/ProjectDimlight) | ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/ProjectDimlight/RuCalculus/main) | 简单通顺的中文入（λ）演算，可与haskell混编，正在兼容F# |
+| [Unilang](https://github.com/linuxdeepin/unilang) | C++ | Deepin | ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/linuxdeepin/unilang/master) | Deepin 自研的编程语言 |
 | [文言](https://wy-lang.org/) | TypeScript | 黄令东 | ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/wenyan-lang/wenyan/master) | 以文言文书写的编程语言 |
 | [粤语](https://github.com/StepfenShawn/Cantonese) | Python | [萧伟俊](https://github.com/StepfenShawn) | ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/StepfenShawn/Cantonese/main) | 以粤语书写的编程语言 |
 | [智锐](https://github.com/covscript) | C++  | [李登淳](https://github.com/mikecovlee) | ![update](https://img.shields.io/github/last-commit/covscript/covscript/master) | 一门跨平台的动态类型应用层通用编程语言，在四川大学有较为活跃的学生社区 |
