@@ -11,6 +11,7 @@
 | [Calcit](https://calcit-lang.org/) | Rust | [题叶](https://github.com/tiye) | ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/calcit-lang/calcit/main) | 缩进语法的 Clojure 方言，基于 Rust 解释执行，支持编译为 `*.mjs` 使用 |
 | [蝉语](https://github.com/cicada-lang/cicada) | TypeScript | [谢宇恒](https://github.com/xieyuheng) | ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/cicada-lang/cicada/master) |  一门依赖类型编程语言，一个交互式定理证明器 |
 | [草蟒](https://gitee.com/laowu2019_admin/cpython) | Python | 吴胜金 | - | Python 中文版，支持全中文编程，完全兼容 python 生态
+| [Deeplang](https://github.com/deeplang-org/deeplang) | C++ | 浙大、中科大、帝国理工等高校学生 | ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/deeplang-org/deeplang/master) | 具有鲜明内存安全特性的面向IoT场景的语言
 | [Fanx](https://github.com/fanx-dev/fanx) | C | chunquedong | ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/fanx-dev/fanx/master) | 面向对象的静态类型的全栈编程语言，可以编译为C语言、Java字节码、javascript，并提供跨平台开发框架  |
 | [Go+](https://github.com/goplus/gop) | Go | [许式伟](https://github.com/xushiwei) | ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/goplus/gop/main) | 基于 Go 语言扩展的语言 |
 | [HVML](https://hvml.fmsoft.cn/) | C | [魏永明](https://github.com/VincentWei) | ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/HVML/PurC/master) |  一种具有新结构、新原理和新设计模式的可编程标记语言 |
