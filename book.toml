@@ -9,8 +9,10 @@ multilingual = false
 src = "."
 
 [output.html]
-git-repository-url = "https://github.com/chai2010/china-programming-languages"
-edit-url-template = "https://github.com/chai2010/china-programming-languages/edit/master/{path}"
+additional-css = ["style.css"]
+additional-js = ["js/custom.js", "js/bigPicture.js"]
+git-repository-url = "https://github.com/china-programming-languages/main"
+edit-url-template = "https://github.com/china-programming-languages/main/edit/master/{path}"
 git-repository-icon = "fa-github"
 
 
