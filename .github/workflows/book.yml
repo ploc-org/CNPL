@@ -30,6 +30,7 @@ jobs:
         uses: peaceiris/actions-gh-pages@v3
         with:
           personal_token: ${{ secrets.DEPLOY_KEY }}
+          external_repository: china-programming-languages/china-programming-languages.github.io
           publish_dir: ./book
           publish_branch: master
           user_name: 'github-actions[bot]'

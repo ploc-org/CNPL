@@ -4,8 +4,8 @@
 
 ![](cover.jpg)
 
-- 仓库: [https://github.com/chai2010/china-programming-languages](https://github.com/chai2010/china-programming-languages)
-- 在线阅读: [https://chai2010.cn/china-programming-languages](https://chai2010.cn/china-programming-languages)
+- 仓库: [https://github.com/china-programming-languages/main](https://github.com/china-programming-languages/main)
+- 在线阅读: [https://china-programming-languages.github.io](https://china-programming-languages.github.io)
 
 ---
 
