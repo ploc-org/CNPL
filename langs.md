@@ -29,3 +29,12 @@
 | [ZLOGO](https://github.com/TKT2016/ZLOGO) | C# | [TKT2016](https://github.com/TKT2016) | ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/TKT2016/ZLOGO/master) | 功能与 LOGO 类似的中文编程语言，后有 [在线版本](https://github.com/program-in-chinese/quan3) |
 
 *注: 使用英文名字的语言后面不再加语言后缀, 比如 Go+*
+
+
+<!--
+
+| [仓颉](https://baike.baidu.com/item/%E4%BB%93%E9%A2%89/58954708) | ?/未发布 | 华为公司 | 面向HarmonyOS的编程语言，为鸿蒙生态基础设施建设补上最后一环。
+
+| [易语言](http://www.dywt.com.cn/) | 闭源 | 吴涛等 | 一门以中文作为程序代码编程语言  |
+
+-->
