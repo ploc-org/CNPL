@@ -8,9 +8,6 @@ language = "zh"
 multilingual = false
 src = "."
 
-[build]
-build-dir = "docs"
-
 [output.html]
 git-repository-url = "https://github.com/chai2010/china-programming-languages"
 edit-url-template = "https://github.com/chai2010/china-programming-languages/edit/master/{path}"
