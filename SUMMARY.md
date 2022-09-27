@@ -6,6 +6,7 @@
 [语言列表](langs.md)
 
 - [生产级语言](src/release/readme.md)
+  - [仓颉](src/release/char/readme.md)
   - [ReScript](src/release/rescript/readme.md)
   - [KCL](src/kcl/readme.md)
 - [开发中语言](src/develop/readme.md)
