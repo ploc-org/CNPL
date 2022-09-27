@@ -7,6 +7,7 @@
 
 - [生产级语言](src/release/readme.md)
   - [ReScript](src/release/rescript/readme.md)
+  - [KCL](src/kcl/readme.md)
 - [开发中语言](src/develop/readme.md)
   - [Aya](src/aya/readme.md)
   - [Calcit](src/calcit/readme.md)
@@ -17,7 +18,6 @@
   - [Go+](src/gop/readme.md)
   - [HVML](src/hvml/readmd.md)
   - [Jedi](src/Jedi/jedi.md)
-  - [KCL](src/kcl/readme.md)
   - [洛书](src/lpk/readme.md)
   - [木兰](src/mulan/readme.md)
   - [OpenBlock](src/openblock/readme.md)
