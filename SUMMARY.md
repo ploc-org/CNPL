@@ -1,7 +1,9 @@
 # 目录
 
 [中国编程语言](index.md)
+
 [前言](preface.md)
+[语言列表](langs.md)
 
 - [Aya](src/aya/readme.md)
 - [Calcit](src/calcit/readme.md)
