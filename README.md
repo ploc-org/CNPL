@@ -1,4 +1,4 @@
-# 国产编程语言列表
+# 中国编程语言列表
 
 [![](cover.jpg)](https://china-programming-languages.github.io)
 
