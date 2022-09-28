@@ -1,5 +1,7 @@
 # 中国编程语言列表
 
+主要收录国内环境产生的编程语言、会重点考虑中文社区、中文支持、中文用户中文教程等国内的影响力。对于有国际影响力的语言自会有国际权威机构做出最客观的评价，不在这个列表考虑。这只代表作者个人观点！
+
 [![](cover.jpg)](https://china-programming-languages.github.io)
 
 - 在线阅读: [https://zh-lang.cn](https://zh-lang.cn)
