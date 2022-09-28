@@ -2,8 +2,8 @@
 
 [![](cover.jpg)](https://china-programming-languages.github.io)
 
-- 仓库: [https://github.com/china-programming-languages/main](https://github.com/china-programming-languages/main)
-- 在线阅读: [https://china-programming-languages.github.io](https://china-programming-languages.github.io)
+- 在线阅读: [https://zh-lang.cn](https://zh-lang.cn)
+- 代码仓库: [https://github.com/china-programming-languages/main](https://github.com/china-programming-languages/main)
 
 ## 鸣谢
 
