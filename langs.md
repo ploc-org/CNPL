@@ -20,7 +20,6 @@
 | [木兰](https://gitee.com/MulanRevive/mulan-rework) | Python | 原创：[刘雷等](https://news.sciencenet.cn/htmlnews/2020/1/434911.shtm)；重现：[吴烜等](https://gitee.com/MulanRevive/mulan-rework/contributors) | - | 基于 Python 的编程语言，语法设计包括 [用大括号取代强制缩进](https://zhuanlan.zhihu.com/p/103893370) 等等
 | [OpenBlock](https://gitee.com/openblock/openblock) | JavaScript | 杜天微 | - | 简单易学的、面向业务的图形化脚本语言，开放原子开源基金会孵化项目 |
 | [气语](https://github.com/AnonymousAAArdvark/qi/blob/master/README.zh.md) | C | ? | ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/AnonymousAAArdvark/qi/master) | 中文编程语言 |
-| [ReScript](https://rescript-lang.org) | OCaml | [张宏波](https://github.com/bobzhang) | ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/rescript-lang/rescript-compiler/master) | 目前第一个 [国际化运作成功](https://forum.rescript-lang.org/) 的国产编程语言 |
 | [入墨答](https://github.com/ProjectDimlight/RuCalculus) | Haskell | [SOL](https://github.com/ProjectDimlight) | ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/ProjectDimlight/RuCalculus/main) | 简单通顺的中文入（λ）演算，可与haskell混编，正在兼容F# |
 | [Unilang](https://github.com/linuxdeepin/unilang) | C++ | Deepin | ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/linuxdeepin/unilang/master) | Deepin 自研的编程语言 |
 | [文言](https://wy-lang.org/) | TypeScript | 黄令东 | ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/wenyan-lang/wenyan/master) | 以文言文书写的编程语言 |
@@ -37,5 +36,6 @@
 | [仓颉](https://baike.baidu.com/item/%E4%BB%93%E9%A2%89/58954708) | ?/未发布 | 华为公司 | 面向HarmonyOS的编程语言，为鸿蒙生态基础设施建设补上最后一环。
 
 | [易语言](http://www.dywt.com.cn/) | 闭源 | 吴涛等 | 一门以中文作为程序代码编程语言  |
+| [ReScript](https://rescript-lang.org) | OCaml | [张宏波](https://github.com/bobzhang) | ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/rescript-lang/rescript-compiler/master) | 目前第一个 [国际化运作成功](https://forum.rescript-lang.org/) 的国产编程语言 |
 
 -->

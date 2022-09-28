@@ -8,7 +8,6 @@
 - [生产级语言](src/release/readme.md)
   - [易语言](src/release/eyuyan/readme.md)
   - [华为仓颉](src/release/char/readme.md)
-  - [ReScript](src/release/rescript/readme.md)
   - [KCL](src/kcl/readme.md)
 - [开发中语言](src/develop/readme.md)
   - [Aya](src/aya/readme.md)
