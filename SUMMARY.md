@@ -12,7 +12,7 @@
 - [开发中语言](src/develop/readme.md)
   - [Aya](src/aya/readme.md)
   - [Calcit](src/calcit/readme.md)
-  - [蝉语](src/calcit/readme.md)
+  - [蝉语](src/cicada/readme.md)
   - [草蟒](src/cpython/readme.md)
   - [Deeplang](src/deeplang/readme.md)
   - [Fanx](src/fanx/readme.md)
