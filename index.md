@@ -5,5 +5,5 @@
 ![](cover.jpg)
 
 - 在线阅读: [https://zh-lang.cn](https://zh-lang.cn)
-- 代码仓库: [https://github.com/china-programming-languages/main](https://github.com/china-programming-languages/main)
+- 代码仓库: [https://github.com/china-programming-languages/zh-lang-book](https://github.com/china-programming-languages/zh-lang-book)
 

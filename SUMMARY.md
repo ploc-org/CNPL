@@ -9,7 +9,7 @@
   - [易语言](src/release/eyuyan/readme.md)
   - [华为仓颉](src/release/char/readme.md)
   - [KCL](src/kcl/readme.md)
-  - [OpenBlock(待更名)](src/openblock/readme.md)
+  - [OpenBlock](src/openblock/readme.md)
 - [开发中语言](src/develop/readme.md)
   - [Aya](src/aya/readme.md)
   - [Calcit](src/calcit/readme.md)

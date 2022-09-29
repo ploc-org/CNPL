@@ -11,8 +11,8 @@ src = "."
 [output.html]
 additional-css = ["style.css"]
 additional-js = ["js/custom.js", "js/bigPicture.js"]
-git-repository-url = "https://github.com/china-programming-languages/main"
-edit-url-template = "https://github.com/china-programming-languages/main/edit/master/{path}"
+git-repository-url = "https://github.com/china-programming-languages/zh-lang-book"
+edit-url-template = "https://github.com/china-programming-languages/zh-lang-book/edit/master/{path}"
 git-repository-icon = "fa-github"
 
 
