@@ -7,6 +7,10 @@
 - 在线阅读: [https://zh-lang.cn](https://zh-lang.cn)
 - 代码仓库: [https://github.com/china-programming-languages/zh-lang-book](https://github.com/china-programming-languages/zh-lang-book)
 
+## 媒体文章
+
+- InfoQ: [中文编程不如英文香？今年诞生的这些国产编程语言表示不服](https://mp.weixin.qq.com/s/3WzDYdsKJfF2uQhCuYqiSg)
+
 ## 鸣谢
 
 感谢大家提供 PR！以下排名不分先后：
