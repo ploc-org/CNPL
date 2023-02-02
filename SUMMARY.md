@@ -31,6 +31,6 @@
   - [智锐](src/lpk/readme.md)
   - [ZLOGO](src/lpk/readme.md)
   - [好查](src/goodquery/readme.md)
-  - [JimLang](src/jimlang/readme.md)
+
 
 [后记](postface.md)
