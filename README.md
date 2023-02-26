@@ -11,6 +11,10 @@
 
 - InfoQ: [中文编程不如英文香？今年诞生的这些国产编程语言表示不服](https://mp.weixin.qq.com/s/3WzDYdsKJfF2uQhCuYqiSg)
 
+## 公众号
+
+![](zh-lang-weixin.png)
+
 ## 鸣谢
 
 感谢大家提供 PR！以下排名不分先后：
