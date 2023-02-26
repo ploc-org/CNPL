@@ -13,7 +13,7 @@
 
 ## 公众号
 
-![](zh-lang-weixin.png)
+![](zh-lang-weixin-small.png)
 
 ## 鸣谢
 
