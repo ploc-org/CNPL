@@ -11,9 +11,11 @@
 
 - InfoQ: [中文编程不如英文香？今年诞生的这些国产编程语言表示不服](https://mp.weixin.qq.com/s/3WzDYdsKJfF2uQhCuYqiSg)
 
-## 公众号
+## 公众号/QQ
 
 ![](zh-lang-weixin-small.png)
+
+QQ群号(中国编程语言): 878358520
 
 ## 鸣谢
 
