@@ -31,7 +31,7 @@
 | [豫言](https://github.com/yuyan-lang/yuyan) | SML | [UltimatePea](https://github.com/UltimatePea) | ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/yuyan-lang/yuyan/master) | 函数式中文编程语言 | 
 | [智锐](https://github.com/covscript) | C++  | [李登淳](https://github.com/mikecovlee) | ![update](https://img.shields.io/github/last-commit/covscript/covscript/master) | 一门跨平台的动态类型应用层通用编程语言，在四川大学有较为活跃的学生社区 |
 | [ZLOGO](https://github.com/TKT2016/ZLOGO) | C# | [TKT2016](https://github.com/TKT2016) | ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/TKT2016/ZLOGO/master) | 功能与 LOGO 类似的中文编程语言，后有 [在线版本](https://github.com/program-in-chinese/quan3) |
-| [凸语言](https://github.com/tu-lang/tu) | tu | [poulsen](https://github.com/) | ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/tu-lang/tu) | 自研零依赖,支持动态、静态类型的编译性语言,自举中... |
+| [凸语言](https://github.com/tu-lang/tu) | tu | [poulsen](https://github.com/brewlin) | ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/tu-lang/tu) | 自研零依赖,支持动态、静态类型的编译性语言,`已自举完成`,已实现自己的std和runtime |
 | [好查](https://github.com/dafei1288/goodquerydsl) | Kotlin | [dafei1288](https://github.com/dafei1288) | - | 中文数据查询DSL，可以进行数据查询与绘图 |
 
 
