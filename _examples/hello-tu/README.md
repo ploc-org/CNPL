@@ -2,17 +2,11 @@
 
 欢迎使用 凸语言: https://github.com/tu-lang/tu
 
-自举进度: https://github.com/tu-lang/tu
+目前已自举完成`编译器,汇编器,链接器`
 
-## 链接测试
-```
-> wget https://github.com/tu-lang/tu/raw/main/linker/bin/amd64_linux_tol
-> chmod 777 amd64_linux_tol
-> ./amd64_linux_tol -p ./linker
-> chmod 777 a.out
-> ./a.out
-hello tulang!
-```
+已实现std与runtime,100%tulang代码，原汁原味,无任何外部动态库以及gnu工具链依赖
+
+自己编译，自己汇编自己链接生成linux下可执行程序
 
 ## 动态写法
 ```
