@@ -2,7 +2,7 @@
 
 ## 《国产编程语言蓝皮书-2024》
 
-- 2号提案: https://gitee.com/ploc-org/CPLOC/issues/IA6TFA
+- 4号提案: https://gitee.com/ploc-org/CPLOC/issues/IA6TFA
 - Git工作区: https://gitcode.com/ploc-org/CNPL
 - 筹备中
 
