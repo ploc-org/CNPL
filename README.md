@@ -4,7 +4,8 @@
 
 - 4号提案: https://gitee.com/ploc-org/CPLOC/issues/IA6TFA
 - Git工作区: https://gitcode.com/ploc-org/CNPL
-- 筹备中
+- 中文PDF: https://cdn-static.gitcode.com/doc/CNPL-2024-CHS.pdf
+- 英文PDF: https://cdn-static.gitcode.com/doc/CNPL-2024-EN.pdf
 
 ## 《国产编程语言蓝皮书-2023》
 
